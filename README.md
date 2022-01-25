@@ -14,4 +14,5 @@ In this python file we use list comprehension, functions, and regex to clean mov
 
 ## ETL_create_database
 Lastly we used PostgreSQL as our database to load the transformation in. We used sqlalchemy library to create an engine to connect to our database.
+
 ![sqlalchemy](https://user-images.githubusercontent.com/83085800/151000663-b7fe42c3-fe73-486a-84c1-687b1b25c83c.png)
